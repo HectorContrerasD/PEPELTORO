@@ -24,6 +24,6 @@ namespace PEPELTORO.Hubs.GatoHubs
         public static  Task BuscarPartida(string nombreUsuario)
         {
             return null;
-        }
+        } /////pll
     }
 }
